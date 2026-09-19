@@ -21,11 +21,10 @@
 ## 🌐 Live Portfolio
 
 <p align="center">
-  <a href="https://vercel.com/salonijibhe-b5caabb8/portfolio-3aq5" target="_blank">
-    <strong>🚀 View Portfolio on Vercel</strong>
+  <a href="https://portfolio-3aq5.vercel.app/" target="_blank">
+    <strong>🚀 View My Portfolio</strong>
   </a>
 </p>
-
 
 ---
 
@@ -33,7 +32,9 @@
 
 This is my personal developer portfolio built to showcase my **technical skills, projects, education, certifications, internships and professional experience**.
 
-The portfolio is designed with a clean, responsive interface and highlights my journey as a **B.Tech Electronics & Telecommunication Engineering graduate transitioning into software development**.
+The portfolio features a clean and responsive interface designed for desktop, tablet and mobile devices.
+
+It highlights my journey as a **B.Tech Electronics & Telecommunication Engineering graduate transitioning into software development**.
 
 ---
 
@@ -49,8 +50,9 @@ The portfolio is designed with a clean, responsive interface and highlights my j
 * ✅ GitHub and LinkedIn integration
 * ✅ Contact section
 * ✅ Smooth and user-friendly navigation
+* ✅ Responsive UI
 * ✅ Deployed using Vercel
-* ✅ Built using modern React and Next.js technologies
+* ✅ Built using React and Next.js
 
 ---
 
@@ -62,7 +64,9 @@ I am a fresher interested in **Software Development, Frontend Development and Fu
 
 I enjoy building web applications using modern technologies such as **React, Next.js, TypeScript, JavaScript, Node.js, PostgreSQL and Prisma**.
 
-I also have experience with **Java, Python, SQL, embedded systems and IoT**, which gives me a combination of software and electronics knowledge.
+I also have experience with **Java, Python, SQL, embedded systems and IoT**, giving me a combination of software and electronics knowledge.
+
+I enjoy learning new technologies, solving technical problems and building practical applications.
 
 ---
 
@@ -148,15 +152,20 @@ I also have experience with **Java, Python, SQL, embedded systems and IoT**, whi
 A responsive personal portfolio website showcasing my skills, projects, education, certifications and experience.
 
 **Technologies:**
-Next.js, TypeScript, React, Tailwind CSS, PostgreSQL, Prisma, Vercel
+
+Next.js, TypeScript, React, Tailwind CSS, Vercel
 
 **Highlights:**
 
 * Responsive portfolio interface
 * Project showcase
 * Skills and education sections
+* Experience and certifications
 * Contact functionality
 * Vercel deployment
+
+🌐 **Live Website:**
+https://portfolio-3aq5.vercel.app/
 
 ---
 
@@ -165,6 +174,7 @@ Next.js, TypeScript, React, Tailwind CSS, PostgreSQL, Prisma, Vercel
 A full-stack e-commerce platform developed for selling homemade ladoos made with desi ghee and jaggery.
 
 **Technologies:**
+
 Next.js, TypeScript, Tailwind CSS, Node.js, PostgreSQL, Prisma, JWT, Vercel
 
 **Features:**
@@ -190,6 +200,7 @@ https://ladoozi.com
 A dynamic academic portfolio application designed to manage and display academic and professional information.
 
 **Technologies:**
+
 Next.js, TypeScript, Tailwind CSS, PostgreSQL, Prisma, JWT, Vercel
 
 **Features:**
@@ -197,7 +208,7 @@ Next.js, TypeScript, Tailwind CSS, PostgreSQL, Prisma, JWT, Vercel
 * Admin authentication
 * Project management
 * Skills management
-* Certifications
+* Certifications management
 * Dynamic content management
 * Responsive UI
 * Server-side rendering
@@ -209,10 +220,20 @@ Next.js, TypeScript, Tailwind CSS, PostgreSQL, Prisma, JWT, Vercel
 A carpooling and smart transportation solution developed during a VIIT hackathon.
 
 **Technologies:**
+
 Next.js, PostgreSQL, TensorFlow, Maps integration
 
 **Achievement:**
-🏆 1st Runner-Up — ENTC Department Hackathon 2024
+
+🏆 **1st Runner-Up — ENTC Department Hackathon 2024**
+
+**Highlights:**
+
+* Carpooling functionality
+* Smart transportation concept
+* Map integration
+* Database integration
+* Team-based development
 
 ---
 
@@ -221,9 +242,10 @@ Next.js, PostgreSQL, TensorFlow, Maps integration
 A machine learning project for predicting air quality using environmental parameters.
 
 **Technologies:**
+
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Google Colab
 
-**Models explored:**
+**Models Explored:**
 
 * Random Forest
 * Support Vector Machine
@@ -238,6 +260,7 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Google Colab
 A web application that allows users to generate personal portfolios using predefined templates.
 
 **Technologies:**
+
 Next.js, React, TypeScript, Tailwind CSS
 
 **Features:**
@@ -254,6 +277,7 @@ Next.js, React, TypeScript, Tailwind CSS
 An embedded systems project for monitoring motor RPM using an 8051 microcontroller.
 
 **Technologies:**
+
 8051 Microcontroller, Embedded C, Sensors, Keil
 
 ---
@@ -309,7 +333,7 @@ Gained practical exposure to technical and engineering environments and develope
 
 ## 🏆 Achievements & Activities
 
-* 🥈 **1st Runner-Up** — ENTC Department Hackathon, 2024
+* 🥈 **1st Runner-Up — ENTC Department Hackathon, 2024**
 * 👥 Managed a team of 5 during hackathon project development
 * 🎯 Guest Manager — I2IC T&P, VIIT
 * 👩‍💼 Joint Head — CodeChef Club Event Management
@@ -319,9 +343,9 @@ Gained practical exposure to technical and engineering environments and develope
 
 ## 📜 Certifications
 
-* IBM Full Stack Software Developer Professional Certificate
-* Fundamentals of Java — Coursera
-* AI-ML Virtual Internship
+* **IBM Full Stack Software Developer Professional Certificate**
+* **Fundamentals of Java — Coursera**
+* **AI-ML Virtual Internship**
 
 ---
 
@@ -370,7 +394,7 @@ npm install
 npm run dev
 ```
 
-Open:
+Open your browser and visit:
 
 ```text
 http://localhost:3000
@@ -389,7 +413,7 @@ DATABASE_URL=your_database_url
 NEXT_PUBLIC_APP_URL=your_app_url
 ```
 
-Do not commit sensitive credentials, API keys or passwords to GitHub.
+**Do not commit sensitive credentials, API keys or passwords to GitHub.**
 
 ---
 
@@ -401,9 +425,12 @@ This project is deployed using **Vercel**.
 
 1. Push the project to GitHub.
 2. Connect the repository to Vercel.
-3. Configure required environment variables.
+3. Configure the required environment variables.
 4. Deploy the project.
 5. Vercel automatically creates deployments when changes are pushed to the connected repository.
+
+🌐 **Live Portfolio:**
+https://portfolio-3aq5.vercel.app/
 
 ---
 
@@ -430,6 +457,8 @@ portfolio/
 └── ...
 ```
 
+> Note: Update the project structure above if your actual repository uses a different folder structure.
+
 ---
 
 ## 📬 Connect With Me
@@ -439,7 +468,7 @@ portfolio/
 <a href="https://github.com/Salonijibhe">
   <strong>GitHub</strong>
 </a>
-  •  
+&nbsp; • &nbsp;
 <a href="https://www.linkedin.com/in/saloni-jibhe-4ba562260/">
   <strong>LinkedIn</strong>
 </a>
