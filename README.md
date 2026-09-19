@@ -21,9 +21,9 @@
 ## 🌐 Live Portfolio
 
 <p align="center">
-  <a href="https://vercel.com/salonijibhe-b5caabb8/portfolio-3aq5" target="_blank">
-    <strong>🚀 View Portfolio on Vercel</strong>
-  </a>
+ <a href="https://portfolio-3aq5.vercel.app/" target="_blank">
+  View My Portfolio
+</a>
 </p>
 
 
